@@ -6,10 +6,11 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+Hi there! Welcome to AWS!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Mongo DB, Express.js, Node.js Projects.
+
+Galvanize 6 month Web Development Immersive in SF.
 
 Happy coding!
 
