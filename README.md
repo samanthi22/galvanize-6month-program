@@ -12,5 +12,7 @@ Mongo DB, Express.js, Node.js Projects.
 
 Galvanize 6 month Web Development Immersive in SF.
 
+[Git Commands](./Git/GIT_COMMANDS.md)
+
 Happy coding!
 
