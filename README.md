@@ -10,7 +10,7 @@ Hi there! Welcome to AWS!
 
 Mongo DB, Express.js, Node.js Projects.
 
-Galvanize 6 month Web Development Immersive in SF.
+Galvanize 6 month Web Development Immersive in SF. ($21,000 Bootcamp)
 
 [Git Commands](./Git/GIT_COMMANDS.md)
 
